@@ -1,0 +1,3 @@
+cd netlify-website
+npm install
+npm start
